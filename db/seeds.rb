@@ -13,7 +13,7 @@ users = User.create([
                       { first_name: "Nicolas", last_name: "Alexandre", email: "nl@demo.com" },
                       { first_name: "Julien", last_name: "Barreau", email: "jb@demo.com" },
                       { first_name: "Steve", last_name: "Bunlon", email: "sb@demo.com" },
-                      { first_name: "Arnaud", last_name: "Moncel", email: "am@demo.coom" },
+                      { first_name: "Arnaud", last_name: "Moncel", email: "am@demo.com" },
                     ])
 
 products = Product.create([
